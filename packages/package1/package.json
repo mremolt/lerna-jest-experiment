@@ -1,0 +1,22 @@
+{
+  "name": "package1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Marc Remolt <marc.remolt@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package1.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@angular/core": "^13.0.0",
+    "lit": "^2.0.2"
+  }
+}

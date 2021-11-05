@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FooElement render should render 1`] = `
+"
+Web Components are
+<span>
+  great
+</span>
+!
+"
+`;
